@@ -1,2 +1,2 @@
-# projet-NSI
-Le projet de groupe en NSI 
+# project-NSI
+The NSI Group Project 
